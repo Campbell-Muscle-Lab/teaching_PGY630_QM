@@ -20,3 +20,4 @@ footer_content: ""
 
 # This is the title of the website
 title: "Linear mixed models"
+theme: jekyll-theme-time-machine
