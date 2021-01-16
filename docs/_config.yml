@@ -6,8 +6,8 @@ aux_links:
   - "http://www.campbellmusclelab.org"
   "Lab GitHub":
   - "http://campbell-muscle-lab.github.io"
-  "How Tos Linear Mixed Models Repo":
-  - "http://github.com/Campbell-Muscle-Lab/howtos_linear_mixed_models"
+  "PGY630 QM":
+  - "http://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM"
 
 # Not a big fan of dark mode. I think the light looks better.
 # color_scheme: "dark"
@@ -19,4 +19,4 @@ aux_links:
 footer_content: ""
 
 # This is the title of the website
-title: "Linear mixed models"
+title: "PGY630 Quantitative Methods"
