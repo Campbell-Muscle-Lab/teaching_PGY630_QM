@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Overview
 
-This is the home page for a 16 week class taught by [Ken Campbell] at the University of Kentucky.
+This is the home page for a 16 week class taught by [Ken Campbell](https://sites.google.com/g.uky.edu/campbellmusclelab/people) at the University of Kentucky.
 
 “Quantitative methods for biomedical research” is a 2 credit graduate-level class designed for PhD students and others who wish to develop skills relating to data analysis and interpretation. The course will include sections on data handling, plotting, statistics, and image analysis. Students will be shown how to automate routine analysis tasks and encouraged to develop quantitative skills that will help them to solve future problems by themselves. The course will use MATLAB software but the techniques and content are relevant to all types of scientific programming. Students will also be introduced to GitHub and shown how to organize code and data to improve rigor and reproducibility.
 
