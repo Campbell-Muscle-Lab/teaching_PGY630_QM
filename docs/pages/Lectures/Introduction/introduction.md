@@ -14,7 +14,7 @@ Core materials
 + [Lecture powerpoint](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/master/lectures/introduction/introduction.pptx)
 + Lecture as video (coming soon)
 
-See [GitHub](../../github/github.html) for instructions on how to download the course material to your local computer.
+See [GitHub](../../GitHub/GitHub.html) for instructions on how to download the course material to your local computer.
 
 
 
