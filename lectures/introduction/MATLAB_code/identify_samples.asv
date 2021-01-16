@@ -1,0 +1,29 @@
+function identify_samples
+% Finds samples that meet criteria
+
+% Variables
+phenotype_file_string = '../data/phenotype.xlsx';
+inventory_file_string = '../data/inventory.xlsx';
+output_file_string = '../output/identified_samples.xlsx';
+
+sta
+
+% Code
+
+% Load in tables and merge
+
+table_phenotype = readtable(phenotype_file_string);
+table_inventory = readtable(inventory_file_string);
+
+table_merge = outerjoin(table_phenotype, table_inventory, 'Key', 'ID');
+
+% Find available samples from KO mice that have blood glucose > 180
+sample_rows = find( ...
+                strcmp(table_merge.Status, 'Available') & ...
+                strcmp(table_merge.Genotype, 'KO') & ...
+                (table_marge.Blood_glucose > 180));
+
+table_output = table_marge(sample_rows, :);
+
+% Write result to file
+writetable(table_output, output_file_string);
