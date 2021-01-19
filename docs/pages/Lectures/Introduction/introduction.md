@@ -12,7 +12,10 @@ This lecture introduces the course and sets goals and objectives. We discuss dif
 Core materials
 
 + [Lecture powerpoint](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/master/lectures/introduction/introduction.pptx)
+
 + Lecture as video (coming soon)
+
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2428457&node=8823223&a=763206968&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 See [GitHub](../../GitHub/GitHub.html) for instructions on how to download the course material to your local computer.
 
