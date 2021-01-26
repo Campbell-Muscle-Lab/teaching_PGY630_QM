@@ -12,11 +12,17 @@ This material is presented as a series of short videos that cover
 + getting started with MATLAB and live scripts
 + pseudorandom numbers, sorting, and logic
 + working with text
-+ Opening files and pulling out specific information
++ Loading Excel files into MATLAB and pulling out specific information
+
+## Accessing files
+
+See [GitHub](../../GitHub/GitHub.html) for instructions on how to download the course material to your local computer.
+
+The source files for this lecture are at `<repo>/lectures/working_with_excel_files`
 
 ## Core materials
 
-+ [Lecture powerpoint](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/master/lectures/introduction/introduction.pptx)
++ [Lecture powerpoint](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/master/lectures/working_with_excel_files/working_with_excel_files.pptx)
 
 + Lecture videos
 
@@ -41,14 +47,15 @@ Generating random numbers, how to sort data, and logical operations
 
 ## Working with text
 
-## Pulling out specific information
+Simple examples using string comparisons `strcmp()` and regular expressions - `regexp()`
 
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2474918&node=9025841&a=1773565043&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Accessing files
+## Loading Excel files as tables and pulling out specific information
 
-See [GitHub](../../GitHub/GitHub.html) for instructions on how to download the course material to your local computer.
+A very brief introduction to structures, the concept of object-oriented programming, and thus tables. The video shows how to read a table into Excel and select specific information from it.
 
-The source files for this lecture are at `<repo>/lectures/Working_with_Excel_files`
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2475257&node=9026868&a=946498557&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
