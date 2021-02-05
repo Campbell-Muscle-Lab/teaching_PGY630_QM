@@ -1,0 +1,2 @@
+function calculate_mean_age_in_excel_file(excel_file_string)
+% Function takes file name as input, opens file and calculates mean age

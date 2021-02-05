@@ -1,0 +1,10 @@
+function loop_through_files
+% Loop through files in a directory
+
+% Variables
+search_string = '../data/*.xlsx';
+
+% Code
+
+% Find excel files in the data directory
+dir_data = dir(search_string);
