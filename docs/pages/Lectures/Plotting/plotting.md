@@ -9,6 +9,8 @@ parent: Lectures
 
 This material is presented as a series of short videos that cover
 + how to make a figure and plot single values
++ plotting traces and arranging multiple panels in a figure
++ a workflow that summarizes data loaded from an Excel file and displays it in different formats
 
 ## Accessing files
 
