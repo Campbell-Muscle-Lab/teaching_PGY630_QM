@@ -1,5 +1,5 @@
 ---
-title: Batch processing
+title: Plotting
 nav_order: 3
 has_children: True
 parent: Lectures
