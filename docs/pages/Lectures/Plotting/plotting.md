@@ -1,6 +1,6 @@
 ---
 title: Plotting
-nav_order: 3
+nav_order: 4
 has_children: True
 parent: Lectures
 ---
@@ -36,7 +36,7 @@ Make a figure and plot single values
 
 <iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2585936&node=9314868&a=1169229272&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### Loop through files in a directory
+### Arranging subplots
 
 Plotting traces and arranging multiple panels using the subplot command
 
