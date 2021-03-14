@@ -32,7 +32,7 @@ The source files for this lecture are at `<repo>/lectures/statistics_2`
 ## Core materials
 
 + Lecture videos
-+ [PowerPoint file]
++ [PowerPoint file](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/master/lectures/statistics_2/anova.pptx)
 
 ### One-way ANOVA
 
