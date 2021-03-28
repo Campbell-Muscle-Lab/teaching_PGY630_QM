@@ -25,12 +25,13 @@ The source files for this lecture are at `<repo>/lectures/image_processing_basic
 
 ## Other useful material
 
-+ [Intuitive biostatistics](https://www.google.com/books/edition/Intuitive_Biostatistics/R477U5bAZs4C?hl=en&gbpv=0)
++ [Steve on Image Processing](https://blogs.mathworks.com/steve/)
++ [Digital Image Processing, Gonzalez and Woods](https://www.google.com/books/edition/_/738oAQAAMAAJ?hl=en&gbpv=1)
 
 ## Core materials
 
 + Lecture videos
-+ [PowerPoint file](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/master/lectures/statistics_2/anova.pptx)
++ [PowerPoint file](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/master/lectures/image_processing_basics/image_procssing_basics.pptx)
 
 ### Image processing basics
 
