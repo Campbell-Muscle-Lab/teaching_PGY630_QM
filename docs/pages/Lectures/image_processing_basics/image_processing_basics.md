@@ -1,27 +1,24 @@
 ---
-title: Image processing basics
-nav_order: 9
+title: Image processing tools
+nav_order: 10
 has_children: True
 parent: Lectures
 ---
 
-# Image processing basics
+# Image processing tools
 
 ## Objectives
 
-+ Explain how computers store image data including details about the number of pixels, bit resolution, and color-spaces
-+ Recognize that different image formats hvae distinct strengths and weaknesses
-+ Recall the difference between bitmap and vector-based formats and know when to use each
-
-## Background
-
-Many science projects involve pictures or data acquired through image scans. Concepts such as bit resolution, color-space, and image format are important for rigor and reproducibility. This lecture explains some of the basic concepts and sets the stage for future lessons focused on image processing.
++ Explain how computers use colormaps to visualize gray-scale images
++ Recognize the limitations of the jpg format for scientific imaging
++ Demonstrate ability to resize and rotate images
++ Describe how adjusting brightness and contrast alters image histograms
 
 ## Accessing files
 
 See [GitHub](../../GitHub/GitHub.html) for instructions on how to download the course material to your local computer.
 
-The source files for this lecture are at `<repo>/lectures/image_processing_basics`
+The source files for this lecture are at `<repo>/lectures/image_processing_tools`
 
 ## Other useful material
 
@@ -31,10 +28,17 @@ The source files for this lecture are at `<repo>/lectures/image_processing_basic
 ## Core materials
 
 + Lecture videos
-+ [PowerPoint file](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/master/lectures/image_processing_basics/image_procssing_basics.pptx)
 
-### Image processing basics
+### Image processing tools
 
-A video explaining pixels, color-spaces, compression, and bitmap/vector-based image formats.
+A video explaining colormaps and saving and reading files in different image formats.
 
-<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2842574&node=9975079&a=1150885301&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2877689&node=10057526&a=1291037840&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+A video explaining how to resize and rotate images.
+
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2877690&node=10057527&a=1921178265&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+A video explaining how to adjust the brightness and contrast for an image and how these processes modulate the image histograms.
+
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2877693&node=10057530&a=1788982618&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
