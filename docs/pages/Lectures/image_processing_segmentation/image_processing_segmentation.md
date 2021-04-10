@@ -29,7 +29,7 @@ The source files for this lecture are at `<repo>/lectures/image_processing_segme
 ## Core materials
 
 + Lecture videos
-+ PowerPoint file
++ [PowerPoint file](lectures/image_processing_segmentation/image_processing_segmentation.pptx)
 
 ### Image processing segmentation
 
@@ -46,3 +46,5 @@ A third video which explains Otsu's method for automatic thresholding and demons
 <iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2912046&node=10125842&a=1585801766&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 A video showing how to use MATLAB's Color Segmenter App to explore whether different features are easier to segment in non RGB color spaces.
+
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2912070&node=10125872&a=551092284&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
