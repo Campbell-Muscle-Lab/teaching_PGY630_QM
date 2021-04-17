@@ -29,7 +29,7 @@ The source files for this lecture are at `<repo>/lectures/image_conncted_compone
 ## Core materials
 
 + Lecture videos
-+ [PowerPoint file](lectures/image_connected_components/image_processing_connected_components.pptx)
++ [PowerPoint file](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/da67cf91296464ca27efd4c2c3b139cc3f174da4/lectures/image_connected_components/image_processing_connected_components.pptx)
 
 ### Image processing connected components
 
