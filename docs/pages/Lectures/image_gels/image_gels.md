@@ -1,25 +1,24 @@
 ---
-title: Image connected components
-nav_order: 12
+title: Image gel analysis
+nav_order: 13
 has_children: True
 parent: Lectures
 ---
 
-# Image connected components
+# Image gel analysis
 
 ## Objectives
 
-+ Recognize the difference between different types of connected components (or "blobs" as they are often called)
-+ Explain what a labeled image is
-+ List some of the properties that can be used to describe a connected component
-+ Recognize that blobs can be filtered according to their properties
-+ Recall that the watershed algorithm can be used to separate touching components
++ Recognize that scanning a gel of blot produces a "picture" that can be analyzed using image processing techniques
++ Recall that the image format is important because it defines how the data are stored (and could discard useful information)
+  + Note that images should use as much of the dynamic range as possible (bit resolution) without "clipping"
++ Realize that lanes can be analyzed using curve-fitting techniques
 
 ## Accessing files
 
 See [GitHub](../../GitHub/GitHub.html) for instructions on how to download the course material to your local computer.
 
-The source files for this lecture are at `<repo>/lectures/image_conncted_components`
+The source files for this lecture are at `<repo>/lectures/image_gels`
 
 ## Other useful material
 
@@ -29,26 +28,19 @@ The source files for this lecture are at `<repo>/lectures/image_conncted_compone
 ## Core materials
 
 + Lecture videos
-+ [PowerPoint file](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/da67cf91296464ca27efd4c2c3b139cc3f174da4/lectures/image_connected_components/image_processing_connected_components.pptx)
++ [PowerPoint file](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/fa0cef43b4b96b8f70b7a5953676083ed99fea7b/lectures/image_gels/image_gels.pptx)
++ [GelBandFitter](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2742644/)
 
-### Image processing connected components
+### Image gel analysis
 
-A video explaining different types of connected components.
+A video explaining the objectives and considering a gel from an image data perspective.
 
-<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2946871&node=10201543&a=357543063&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2986464&node=10278507&a=1053393973&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-A demonstration of creating a labeled image.
+A video showing how to extract the profile of a band.
 
-<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2946864&node=10201531&a=712056749&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2986461&node=10278504&a=1574883496&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-A third video which shows how to extract blob properties (in this case their size and centroid).
+A short video demonstrating some of the features of GelBox, a simple tool for analyzing gels and blots.
 
-<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2946853&node=10201511&a=65441249&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-A demonstration of filtering blobs by size, clearning the image boundary, and identifying the largest blob in an image.
-
-<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2946839&node=10201486&a=1190663258&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-A final video showing how to apply a watershed algorithm to separate a blob into two separate regions.
-
-<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2946841&node=10201489&a=485199923&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2986426&node=10278426&a=1250850268&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
