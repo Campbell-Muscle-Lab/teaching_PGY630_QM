@@ -1,5 +1,5 @@
 ---
-title: Image movies
+title: Image prcessing movies
 nav_order: 14
 has_children: True
 parent: Lectures

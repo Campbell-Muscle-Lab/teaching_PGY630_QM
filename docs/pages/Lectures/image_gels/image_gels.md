@@ -1,5 +1,5 @@
 ---
-title: Image gel analysis
+title: Image processing gel analysis
 nav_order: 13
 has_children: True
 parent: Lectures
