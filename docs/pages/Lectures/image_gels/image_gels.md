@@ -1,24 +1,24 @@
 ---
-title: Image movies
-nav_order: 14
+title: Image gel analysis
+nav_order: 13
 has_children: True
 parent: Lectures
 ---
 
-# Image movies
+# Image gel analysis
 
 ## Objectives
 
-+ List some of the different file formats that are used for videos and some of their strengths and weaknesses
-+ Recall that videos are composed of sequences of single frames
-+ Recognize that one approach for analyzing movies is to develop a technique that works reliably on a single frame and then loop that analysis through every frame in the movie
-
++ Recognize that scanning a gel of blot produces a "picture" that can be analyzed using image processing techniques
++ Recall that the image format is important because it defines how the data are stored (and could discard useful information)
+  + Note that images should use as much of the dynamic range as possible (bit resolution) without "clipping"
++ Realize that lanes can be analyzed using curve-fitting techniques
 
 ## Accessing files
 
 See [GitHub](../../GitHub/GitHub.html) for instructions on how to download the course material to your local computer.
 
-The source files for this lecture are at `<repo>/lectures/image_movies`
+The source files for this lecture are at `<repo>/lectures/image_gels`
 
 ## Other useful material
 
@@ -28,13 +28,19 @@ The source files for this lecture are at `<repo>/lectures/image_movies`
 ## Core materials
 
 + Lecture videos
-+ [PowerPoint file]
-+ [Myocyte movie for demo video](https://drive.google.com/file/d/1aHaKxk4YMFFagd1e1LZ8VIoY00d6_sWW/view?usp=sharing)
++ [PowerPoint file](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM/blob/fa0cef43b4b96b8f70b7a5953676083ed99fea7b/lectures/image_gels/image_gels.pptx)
++ [GelBandFitter](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2742644/)
 
-### Image movies
+### Image gel analysis
 
-A video explaining the objectives and some of the factors to consider when working with videos that contain scientific data.
+A video explaining the objectives and considering a gel from an image data perspective.
 
-A video showing how to make a movie from snapshots of a figure.
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2986464&node=10278507&a=1053393973&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-A video showing how to track the positions of moving objects in a video.
+A video showing how to extract the profile of a band.
+
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2986461&node=10278504&a=1574883496&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+A short video demonstrating some of the features of GelBox, a simple tool for analyzing gels and blots.
+
+<iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2986426&node=10278426&a=1250850268&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
