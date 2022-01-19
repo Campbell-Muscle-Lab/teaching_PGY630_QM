@@ -12,7 +12,10 @@ This material is presented as a series of short videos that cover
 + getting started with MATLAB and live scripts
 + pseudorandom numbers, sorting, and logic
 + working with text
-+ Loading Excel files into MATLAB and pulling out specific information
++ Loading Excel files into MATLAB as tables
++ filter tables in MATLAB
++ merging two tables in MATLAB
++ writing a table to a new Excel file
 
 ## Accessing files
 
@@ -56,6 +59,12 @@ Simple examples using string comparisons `strcmp()` and regular expressions - `r
 A very brief introduction to structures, the concept of object-oriented programming, and thus tables. The video shows how to read a table into Excel and select specific information from it.
 
 <iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2475257&node=9026868&a=946498557&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## Merging two Excel files and writing the result to a new file
+
+A short demonstration that loads two Excel files with a common key, merges them together, and writes the result to a new file.
+
+<iframe width="560"  height="315"  src="https://uky.yuja.com/V/Video?v=4145404&node=14163520&a=405704973&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen loading="lazy"></iframe>
 
 
 
