@@ -37,7 +37,7 @@ A simple example collating data from all of the Excel files in a directory
 
 ## Using an additional function to process the task
 
-Demonstrates how to use a "helper" function to handle more complex processing.
+Demonstrates how to use a "helper" function to handle more complex processing. This video also demonstrates some techniques for working with dates and times in MATLAB.
 
 <iframe width="560" height="315" src="https://uky.yuja.com/V/Video?v=2538513&node=9197137&a=1166605980&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
