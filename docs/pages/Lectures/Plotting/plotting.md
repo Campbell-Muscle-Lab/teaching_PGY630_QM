@@ -21,7 +21,7 @@ The source files for this lecture are at `<repo>/lectures/plotting`
 ## Other useful material
 
 + [MATLAB plot gallery](https://www.mathworks.com/products/matlab/plot-gallery.html) for many examples and demo code.
-+ [matplotlib gallery](https://matplotlib.org/stable/tutorials/introductory/sample_plots.html)
++ [matplotlib gallery]https://matplotlib.org/stable/plot_types/index.html)
   + similar to the MATLAB plot gallery but for the Python architecture
 + [seaborn gallery](https://seaborn.pydata.org/examples/index.html)
   + even nicer than matplotlib and again for the Python architecture
